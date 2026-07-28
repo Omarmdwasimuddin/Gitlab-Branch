@@ -12,4 +12,14 @@
 ```bash
 git clone git@gitlab.com:wasuit-group/merge.git
 ```
+```bash
+cd merge
+code .
+```
+---
+
+#### vs er terminal open koro
+```bash
+
+```
 ---
