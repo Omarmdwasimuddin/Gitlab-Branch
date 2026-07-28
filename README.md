@@ -1,4 +1,4 @@
-## Gitlab-Branch
+## GitLab Branching & Merge Request
 
 #### click: Projects--->click: New project--->click: Create blank project --->Project name: daw --->click: Create project
 #### click: New file--->File name daw: index.html --->code daw
