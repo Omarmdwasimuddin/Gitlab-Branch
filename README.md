@@ -23,4 +23,25 @@ code .
 ```bash
 git checkout -b css
 ```
+#### check branch
+```bash
+git branch
+```
+---
+
+#### style.css file banaw
+```bash
+*{
+    margin: 0;
+    padding: 0;
+}
+```
+---
+
+#### terminal e command koro
+```bash
+git add .
+git commit -m 'style file added'
+git push -u origin css
+```
 ---
