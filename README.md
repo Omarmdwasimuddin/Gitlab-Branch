@@ -7,3 +7,9 @@
 ```
 ---
 #### click: Commit changes--->commit message: Group leader
+
+#### project clone koro
+```bash
+git clone git@gitlab.com:wasuit-group/merge.git
+```
+---
