@@ -45,3 +45,6 @@ git commit -m 'style file added'
 git push -u origin css
 ```
 ---
+
+#### click: Create merge request --->click: Create merge request--->click: Merge
+![](https://imgur.com/j4RfB2j.png)
