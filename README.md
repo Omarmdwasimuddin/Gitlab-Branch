@@ -48,3 +48,13 @@ git push -u origin css
 
 #### click: Create merge request --->click: Create merge request--->click: Merge
 ![](https://imgur.com/j4RfB2j.png)
+#### main branch e giye dekho file add hoiche kina
+---
+
+#### vs er terminal e daw
+```bash
+git branch
+git switch main
+git merge css
+```
+---
