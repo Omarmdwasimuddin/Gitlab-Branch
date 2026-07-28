@@ -19,7 +19,8 @@ code .
 ---
 
 #### vs er terminal open koro
+#### New branch create koro
 ```bash
-
+git checkout -b css
 ```
 ---
